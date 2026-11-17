@@ -1,6 +1,6 @@
 cask "cado" do
-  version "0.2.0"
-  sha256 "c3295c22b76e6128ce23e8dea744dd95c453de4e96ea004d5cb91b65aa2252e4"
+  version "0.4.0"
+  sha256 "7b8a9a4b3d716c4ad88cf44512becab4e354a353350538ad17b41ba99cb78ef9"
 
   url "https://github.com/ropats16/cado/releases/download/v#{version}/Cado-#{version}.dmg"
   name "Cado"
