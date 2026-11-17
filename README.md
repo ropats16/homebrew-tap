@@ -5,3 +5,5 @@ Homebrew tap for [Cado](https://github.com/ropats16/cado), local on-device speec
 ```sh
 brew install --cask ropats16/tap/cado
 ```
+
+If Homebrew says the tap is untrusted, run `brew trust ropats16/tap` first.
